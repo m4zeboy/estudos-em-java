@@ -13,5 +13,11 @@ public class NomeDeVariavel {
     int 2alunos; // Não pode, vai dar errado
     int quantidade alunos; // Nãoo pode ter espaço
     int new; // Não pode ter palavra reservada
+
+    // Seguindo a convenção
+
+    int quantidadeAlunos;
+    int quantidadeAlunosNota10;
+    int numeroDeAlunosAprovados;
   }
 }
